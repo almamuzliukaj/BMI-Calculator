@@ -92,7 +92,7 @@ Start the development server:
 ```bash
 npm start
 # or
-npx expo start
+npx expo start --tunnel
 ```
 From there, you can:
 
