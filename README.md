@@ -32,7 +32,7 @@ This project emphasizes:
 ## 🖼️ Screenshot
 
 <p align="center">
-  <img src="assets/BMI-Calculator-Screenshot.jpeg" alt="BMI Calculator Screenshot" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+  <img src="assets/BMI-Calculator.jpeg" alt="BMI Calculator Screenshot" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
 </p>
 
 > Screenshot of the app showing height & weight input, calculate button, and BMI result with category badge.
@@ -68,10 +68,10 @@ Follow these steps to set up and run the project locally:
 
 ```bash
 # 1️⃣ Create the Expo project
-npx create-expo-app Week2BMICalculator
+npx create-expo-app BMI-Calculator
 
 # 2️⃣ Navigate into the project folder
-cd Week2BMICalculator
+cd BMI-Calculator
 
 # 3️⃣ Install dependencies
 npm install
