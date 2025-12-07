@@ -92,7 +92,7 @@ Start the development server:
 ```bash
 npm start
 # or
-npx expo start
+npx expo start --tunnel
 ```
 From there, you can:
 
@@ -118,7 +118,7 @@ Shows BMI value and category badge dynamically. Categories and colors:
 ## 👩‍💻 Author
 
 **Alma Muzliukaj**  
-💼 *Software Engineering Student*  
+💼 *Computer Science Student*  
 🌐 [https://github.com/almamuzliukaj](https://github.com/almamuzliukaj)  
 📧 [almamuzliukaj@gmail.com](mailto:almamuzliukaj@gmail.com)
 
