@@ -29,15 +29,14 @@ This project emphasizes:
 
 ---
 
-## 🖼️ Screenshot
+## 📸 App Screenshots
 
-<p align="center">
-  <img src="assets/BMI-Calculator.jpeg" alt="BMI Calculator Screenshot" width="250" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-</p>
+| Screen | Preview |
+|--------|---------|
+| **Health Tracker** | <img src="assets/HealthTracker.jpeg" width="250" style="border-radius:12px;" /> |
+| **Attempt Without Adding Metrics** | <img src="assets/NotAddingMetrics.jpeg" width="250" style="border-radius:12px;" /> |
+| **Adding Valid Numbers** | <img src="assets/AddValidNumbers.jpeg" width="250" style="border-radius:12px;" /> |
 
-> Screenshot of the app showing height & weight input, calculate button, and BMI result with category badge.
-
----
 
 ## ✨ Features
 
