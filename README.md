@@ -29,13 +29,14 @@ This project emphasizes:
 
 ---
 
-## 📸 App Screenshots
+### 📸 App Screenshots
 
-| Screen | Preview |
-|--------|---------|
-| **BMI Calculator** | <img src="assets/BMI-Calculator.jpeg" width="250" style="border-radius:12px;" /> |
-| **Positive Number Input** | <img src="assets/BMICalculator-positive-numbers.jpeg" width="250" style="border-radius:12px;" /> |
-| **Enter Numbers Prompt** | <img src="assets/EnterNumbers-BMI.jpeg" width="250" style="border-radius:12px;" /> |
+<p align="center">
+  <img src="assets/BMI-Calculator.jpeg" width="220" style="border-radius:12px; margin-right:10px;" />
+  <img src="assets/BMICalculator-positive-numbers.jpeg" width="220" style="border-radius:12px; margin-right:10px;" />
+  <img src="assets/EnterNumbers-BMI.jpeg" width="220" style="border-radius:12px;" />
+</p>
+
 
 
 
