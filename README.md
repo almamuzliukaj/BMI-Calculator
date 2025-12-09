@@ -33,9 +33,10 @@ This project emphasizes:
 
 | Screen | Preview |
 |--------|---------|
-| **Health Tracker** | <img src="assets/HealthTracker.jpeg" width="250" style="border-radius:12px;" /> |
-| **Attempt Without Adding Metrics** | <img src="assets/NotAddingMetrics.jpeg" width="250" style="border-radius:12px;" /> |
-| **Adding Valid Numbers** | <img src="assets/AddValidNumbers.jpeg" width="250" style="border-radius:12px;" /> |
+| **BMI Calculator** | <img src="assets/BMI-Calculator.jpeg" width="250" style="border-radius:12px;" /> |
+| **Positive Number Input** | <img src="assets/BMICalculator-positive-numbers.jpeg" width="250" style="border-radius:12px;" /> |
+| **Enter Numbers Prompt** | <img src="assets/EnterNumbers-BMI.jpeg" width="250" style="border-radius:12px;" /> |
+
 
 
 ## ✨ Features
